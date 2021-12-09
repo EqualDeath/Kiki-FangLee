@@ -1,4 +1,4 @@
-# Kiki-FangLee-DiscordBot
+# KikiBareDogs-DiscordBot
 KiKi bare dogs can share your joys and sorrows with you.
 - $help: Kiki will show you my talent, aw-aw.
 - $list: Show Kiki's knowledge.
