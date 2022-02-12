@@ -1,5 +1,8 @@
 # KikiBareDogs-DiscordBot
-KiKi bare dogs can share your joys and sorrows with you.
+
+![image](https://user-images.githubusercontent.com/75077747/153695952-9e280dbb-4f61-48b2-8c81-c05cc207f155.png)
+
+##KiKi bare dogs can share your joys and sorrows with you.
 - $help: Kiki will show you my talent, aw-aw.
 - $list: Show Kiki's knowledge.
 - $new + "encouragement": Add your favorite quotes and Kiki will keep them for you.
