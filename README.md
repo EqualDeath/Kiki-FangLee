@@ -13,7 +13,7 @@
 - $respond on/off: Enable/disable Kiki's negative sniffing mode.
 - If the sniffing mode is on, when catching a negative sentence, Kiki's friends will appear to encourage and give you advice.
 
-## Kết nối với mình tại đây:
+## Stay connected:
 
 ### Linkedin: https://www.linkedin.com/in/fang-lee-613b4a210
 ### Portfolio: https://fanglee1808.zyrosite.com/
